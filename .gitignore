@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Java
+target/
+*.class
+*.jar
+
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment
+.env
